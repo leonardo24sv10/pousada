@@ -3,6 +3,15 @@
         src: url("./fonts/font_playwrite/PlaywriteITModerna-VariableFont_wght.ttf");
     }
 
-h1{
+   .paineltitulo{
+    font-family: Playwrite ;
+    font-size: 50px ;
+    color: black ;
+
+}
+
+.paineltexto{
     font-family: Playwrite;
+    font-size: 30px;
+    color: black;
 }
