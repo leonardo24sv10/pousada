@@ -6,12 +6,36 @@
    .paineltitulo{
     font-family: Playwrite ;
     font-size: 50px ;
-    color: black ;
+    color: rgb(255, 255, 255) ;
 
 }
 
 .paineltexto{
     font-family: Playwrite;
     font-size: 30px;
-    color: black;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url("../img/saguao7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+section{
+    background-color: #fff;
+     padding: 80px 30px 80px 30px;  /* fazendo desta maneira o padding fica em sentido horario e colocando dois valores apenas Ex: padding:30
+     20px os valores sao distribuidos pra cima e baixo primeiro depois direita esquerda */
+}
+
+#home img{
+    width: 80%;
+}
+
+.acomodacao{
+    padding: 100px 200px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0,0.5); /*serve para baixar a luminosidade da foto e deixar com efeito de opasidade */
 }
