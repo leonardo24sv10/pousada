@@ -39,3 +39,17 @@ section{
     color: #fff;
     background-color: rgba(0,0,0,0.5); /*serve para baixar a luminosidade da foto e deixar com efeito de opasidade */
 }
+
+.gastronomia{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: underline  ;
+}
+
+    .reservas{
+    padding: 100px 200px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0,0.5); /*serve para baixar a luminosidade da foto e deixar com efeito de opasidade */
+    }
